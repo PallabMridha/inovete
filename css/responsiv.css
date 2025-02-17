@@ -1,0 +1,187 @@
+@media (min-width: 1200px) { 
+
+ }
+ /* Extra large devices end */
+
+ @media (min-width: 992px) and (max-width: 1199.98px) { 
+
+ }
+/* Large devices end */
+
+ @media (min-width: 768px) and (max-width: 991.98px) { 
+
+ }
+
+/*  Medium devices end */
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+
+.col-4 {
+    width: 100%;
+}
+.navbar-nav{
+    text-align: center;
+    line-height: 50px;
+}
+.btne{
+    margin-top: 20px;        
+    font-size: 30px;
+}
+    
+.nav-item {
+    font-size: 36px;
+    
+} 
+/*navitam end */
+.benarpart {
+    padding-top: 30px;
+    text-align: center;
+}
+.col-4 h4 {
+    font-size: 57px;
+    line-height: 63px;
+}
+.col-4 a {
+    font-size: 35px;
+    padding: 25px 25px
+}
+.hading h1 {
+    padding: 20px;
+    text-align: center;
+    font-size: 45px;
+}
+/* hader end */
+.funtion {
+    text-align: center;
+}
+.funtion-col1 {
+    width: 100%;
+}
+.funtion-col1 img {
+    width: 80%;
+}
+.funtion-col1 h6 {
+    font-size: 45px;
+}
+.funtion-col1 p {
+    padding-bottom: 10px;
+    line-height: 40px;
+    font-size: 30px;
+    padding-top: 23px;
+}
+.funtion-col1 a {
+    font-size: 35px;
+}
+.minutes{
+    text-align: center;
+}
+.minutes h6 {
+    font-size: 40px;
+    line-height: 60px;
+    padding-top: 53px;
+}
+.minutes p {
+    font-size: 19px;
+    line-height: 40px;
+    padding: 15px 0;
+}
+.row {
+    text-align: center;
+}
+.col-lg-6 img{
+    width: 65%;
+}
+.minutes2 h6 {
+    font-size: 30px;
+}
+.minutes2 p {
+    font-size: 29px;
+    line-height: 40px;
+}
+.minutes2 a {
+    font-size: 30px;
+}
+
+}
+
+/* Small devices end */
+
+ @media (min-width: 320px) and (max-width: 575.98px) { 
+
+.navbar-nav{
+    text-align: center;
+    line-height: 35px;
+}
+.btne{
+    margin-top: 12px;
+    font-size: 26px;
+}
+
+.nav-item {
+    font-size: 26px;
+
+}
+/* navbar end */
+
+
+.col-4 {
+    width: 100%;
+}
+.benarpart {
+    padding-top: 30px;
+    text-align: center;
+}
+.col-4 h4 {
+    font-size: 48px;
+    line-height: 59px;
+}
+.col-4 a {
+    font-size: 25px;
+    padding: 15px 20px;
+}
+.hading h1 {
+    padding: 20px;
+    text-align: center;
+    font-size: 35px;
+}
+/* hadar part end */
+.funtion-col1 {
+    width: 100%;
+    text-align: center;
+}
+.funtion-col1 img {
+    width: 55%;
+}
+.funtion-col1 h6 {
+    font-size: 30px;
+}
+.funtion-col1 p {
+    padding-bottom: 10px;
+    line-height: 30px;
+    font-size: 24px;
+}
+.funtion-col1 a {
+    font-size: 25px;
+}
+/* end */
+.minutes h6 {
+    line-height: 45px;
+    text-align: center;
+    padding-top: 50px;
+}
+.minutes p {
+    font-size: 15px;
+    line-height: 20px;
+    padding: 20px 0;
+    text-align: center;
+}
+.row {
+    text-align: center;
+}
+.col-lg-6 img{
+    width: 55%;
+}
+
+ } 
+/*  Extra small devices end */

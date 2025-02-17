@@ -1,0 +1,247 @@
+/* all common css start */
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0; 
+ }
+a,a:hover{
+    text-decoration: none;
+    display: inline-block;
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0;
+    line-height: 0.8;
+}
+ul,ol{
+    list-style: none;
+}
+/* all common css end */
+
+/* haderpart start */
+.nav-item{
+    font-weight: 600;
+    font-size: 18px;
+    font-family: "Open Sans", serif;
+    color: #29313D;
+    padding-right: 20px;
+}
+.btne a{
+    padding: 10px 30px;
+    color: white;
+    border-radius: 18px;
+    background: #8454F5;
+    font-weight: 600;
+    font-family: "Nunito", serif;
+    text-transform: capitalize;
+}
+/* haderpart end */
+
+/* benerpart start */
+.benarpart{
+    padding-top: 270px;
+    margin-bottom: 60px;
+    background: url(../images/benerimage.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.col-4 p{
+    padding-top: 30px;
+    padding-bottom: 60px;
+    font-weight: 400;
+    font-size: 18px;
+    font-family: "Nunito", serif;
+    color: #29313D;
+    line-height: 25px;
+}
+.col-4 h4{
+    font-weight: 800;
+    font-size: 64px;
+    font-family: "Open Sans", serif;
+    color: #29313D;
+    line-height: 70px;
+}
+.col-4 a{
+    font-weight: 400;
+    font-size: 18px;
+    font-family: "Nunito", serif;
+    background: #6A55EA;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 18px;
+} 
+/* benerpart end */
+
+/* sec3 start */
+.funtion{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.funtion-col1 img{
+    padding: 10px 0;
+    width: 70px;
+}
+.funtion-col1 h6{
+    padding-bottom: 10px;
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: #29313D;
+
+}
+.funtion-col1 p{
+    padding-bottom: 8px;
+    line-height: 20px;
+    font-weight: 500;
+    font-size: 14px;
+    font-family: "Nunito", serif;
+    color: #29313D;
+}
+.funtion-col1 a{
+    font-weight: 600;
+    font-size: 16px;
+    font-family: "Nunito", serif;
+    color: #29313D;
+}
+.hading h1{
+    padding:30px 0 50px;
+    text-align: center;
+}
+.funtion-col1{
+    padding: 30px;
+}
+/* sec3 end */
+
+ /* sec4 start */
+ .launch{
+    padding-top: 100px;
+    padding-bottom: 120px;
+ }
+.pic1{
+    position: relative;
+}
+.pic2 img{
+    position: absolute;
+    left: 50%;
+    top: -20px;
+    transform: translateX(-50%);
+    height: 100%;
+}
+.minutes h6{
+    color: #29313D;
+    font-size: 30px;
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    line-height: 35px;
+}
+.minutes p{
+    color: #29313D;
+    font-size: 13px;
+    font-family: "Nunito", serif;
+    font-weight: 400;
+    line-height: 20px;
+    padding: 15px 0;
+}
+.minutes2 h6{
+    color: #29313D;
+    font-size: 18px;
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    padding-top: 15px;
+}
+.minutes2 p{
+    color: #29313D;
+    font-size: 18px;
+    font-family: "Nunito", serif;
+    font-weight: 400;
+    padding: 15px 0;
+    line-height: 25px;
+}
+
+.minutes2 a{
+    color: #29313D;
+}
+/* sec4 end */
+
+/* sec6 start */
+.hd h1{
+    color: #29313D;
+    font-size: 30px;
+    font-family: "Poppins", serif;
+    font-weight: 600;
+}
+
+.hd{
+    text-align: center;
+    padding: 40px;
+}
+.hd p{
+    color: #29313D;
+    font-size: 13px;
+    font-family: "Nunito", serif;
+    font-weight: 400;
+    padding-top: 20px;
+}
+.row1{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.pc img{
+    width: 100%;
+}
+
+.sec6{
+    padding-top: 50px;
+}
+/* sec6 end */
+
+/* sec7 start */
+.sec7{
+    padding: 70px 0;
+}
+.mane-hade{
+    display: flex;
+    justify-content: space-between;
+}
+.btn3 a{
+    color: white;
+    background: #6A55EA;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-family: "Nunito", serif;
+    font-weight: 400;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.mane-hade h1{
+    color: #29313D;
+    font-size: 30px;
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    line-height: 40px;
+}
+
+
+.icontext{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 70px;
+    flex-wrap: wrap;
+}
+.icontext1{
+    display: flex;
+    background: #F3F7FD;
+    padding: 20px;
+    border-radius: 20px;
+}
+.icontext1 p{
+    color: #29313D;
+    font-size: 15px;
+    padding-left: 10px;
+    padding-top: 3px;
+}
+
+/* sec7 end */
